@@ -2,7 +2,7 @@
 **TuUsuarioGitHub/TuUsuarioGitHub** is a ✨ _work-in-progress_ ✨ repository
 -->
 
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Andres
 
 ![Universidad Javeriana](https://img.shields.io/badge/Pontificia%20Universidad%20Javeriana-00539F?style=for-the-badge&logo=google-scholar&logoColor=white)  
 ![Estudiante de Ingeniería de Sistemas](https://img.shields.io/badge/Estudiante–Ingeniería%20de%20Sistemas-brightgreen?style=for-the-badge)  
@@ -55,10 +55,6 @@
 ---
 
 ## 🎮 Un toque de diversión
-
-Si te gusta el contenido de **Fernanfloo**, ¡échale un vistazo a su canal!  
-👉 [Canal de Fernanfloo](https://www.youtube.com/user/Fernanfloo)  
-
 ---
 
 > “La mejor forma de predecir el futuro es crearlo.” – **Peter Drucker**
