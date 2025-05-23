@@ -6,7 +6,7 @@
 
 ![Universidad Javeriana](https://img.shields.io/badge/Pontificia%20Universidad%20Javeriana-00539F?style=for-the-badge&logo=google-scholar&logoColor=white)  
 ![Estudiante de Ingeniería de Sistemas](https://img.shields.io/badge/Estudiante–Ingeniería%20de%20Sistemas-brightgreen?style=for-the-badge)  
-![GitHub followers](https://img.shields.io/github/followers/TuUsuarioGitHub?style=social)
+![GitHub followers](https://img.shields.io/github/followers/Andres-devp?style=social)
 
 ---
 
@@ -15,7 +15,6 @@
 - 🙋‍♂️ Soy **estudiante de Ingeniería de Sistemas** en la **Pontificia Universidad Javeriana** (Bogotá, Colombia).  
 - 💡 Apasionado por la programación, el desarrollo de software y las nuevas tecnologías.  
 - 🚀 Siempre en busca de **retos** que me permitan aprender y aportar valor.  
-- 🌱 Actualmente explorando **Inteligencia Artificial**, **Desarrollo Full‑Stack** y **DevOps**.  
 
 ---
 
@@ -34,32 +33,11 @@
 
 ---
 
-## 💼 Proyectos Destacados
-
-| Proyecto                  | Descripción breve                                   | Tech Stack              |
-| ------------------------- | --------------------------------------------------- | ----------------------- |
-| [Mi Portafolio](#)        | Sitio web personal con CV interactivo               | React, Tailwind CSS     |
-| [ChatBot IA](#)           | Bot conversacional con NLP                          | Python, TensorFlow      |
-| [API Rest Tareas](#)      | Backend para gestión de tareas                      | Node.js, Express, MongoDB |
-| [Automatización DevOps](#) | CI/CD en GitHub Actions para despliegue automático | Docker, GitHub Actions  |
-
----
-
 ## 📫 ¿Cómo contactarme?
 
-- ✉️ Correo: [tu.email@ejemplo.com](mailto:tu.email@ejemplo.com)  
-- 💼 LinkedIn: [TuPerfilLinkedIn](https://www.linkedin.com/in/tu-perfil/)  
-- 🐦 Twitter: [@TuUsuarioTwitter](https://twitter.com/TuUsuarioTwitter)  
-- 🌐 Sitio web: [www.tusitio.com](https://www.tusitio.com)  
+- ✉️ Correo: [tu.email@ejemplo.com](mailto:andresdoncelmartinez@gmail.com)  
+- 💼 LinkedIn: [TuPerfilLinkedIn]((https://www.linkedin.com/in/andres-doncel-5117a9367/))  
 
----
-
-## 🎮 Un toque de diversión
----
-
-> “La mejor forma de predecir el futuro es crearlo.” – **Peter Drucker**
-
----
 
 <p align="center">
   <img width="200" src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" alt="Coding cat GIF" />
